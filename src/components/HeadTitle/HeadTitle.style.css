@@ -1,0 +1,28 @@
+.headtitle {
+  padding: 30px 0;
+  background: #f5f5f5;
+}
+
+.headtitle h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: #f51767;
+}
+
+@media screen and (max-width: 1024px) {
+  .headtitle h1 {
+    font-size: 45px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .headtitle h1 {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .headtitle h1 {
+    font-size: 20px;
+  }
+}
