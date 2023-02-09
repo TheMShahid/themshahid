@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/themshahid/static/css/main.7b156c11.css",
+    "main.js": "/themshahid/static/js/main.8ce9b41d.js",
+    "static/media/advanture.png": "/themshahid/static/media/advanture.93c24df77dfb95a824ea.png",
+    "static/media/book list.png": "/themshahid/static/media/book list.58bf39fa1b95142f37fa.png",
+    "static/media/photo list.png": "/themshahid/static/media/photo list.0ea6191380174255aa50.png",
+    "static/media/monster rolodex.png": "/themshahid/static/media/monster rolodex.3a81fda42e065a517649.png",
+    "static/media/web.jpeg": "/themshahid/static/media/web.58e74257a4220ce1e912.jpeg",
+    "static/media/javascript.jpeg": "/themshahid/static/media/javascript.c10f7f1dd5b422cfe48e.jpeg",
+    "static/media/profile.png": "/themshahid/static/media/profile.11e07c1469d65bbc4924.png",
+    "static/media/Graphic Design.png": "/themshahid/static/media/Graphic Design.2e48c8080610b64e292d.png",
+    "static/media/freelancing.png": "/themshahid/static/media/freelancing.8027d0a52e92e76371a1.png",
+    "index.html": "/themshahid/index.html",
+    "main.7b156c11.css.map": "/themshahid/static/css/main.7b156c11.css.map",
+    "main.8ce9b41d.js.map": "/themshahid/static/js/main.8ce9b41d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b156c11.css",
+    "static/js/main.8ce9b41d.js"
+  ]
+}
