@@ -38,7 +38,7 @@ Eager to Learn:
 I'm looking forward to learning from your team of experts and contributing to the development of websites.
 
 Strong Communication:
-I'm available for discussion or interview at your convenience, and can be reached via WhatsApp (+92 3139723986) or email.
+I'm available for discussion or interview at your convenience, and can be reached via WhatsApp (https://wa.me/923139723986) or email.
 
 Let's Connect
 I'd love to discuss how my skills and experiences align with your needs. Please feel free to reach out to me to schedule a conversation or interview.
